@@ -7,6 +7,10 @@ dollars.
 In a really conservative scenario this amount will double within years, thanks to capital injection of
 institutional investors as well as amatorial investors, both attracted by the idea of quick gains as well as the feeling of pioneering a whole new industry.
 
+## Vision
+Creation of a never ending user experience in which crypto passionates can learn and earn from each other.
+Thanks to the power of blockchain technology it is possibile to create sophysticated yet simple financial transactions between users, and between users and TradingLab.
+
 ## Description of the market and the problem
 TradingLab has identified two key stakeholders playing an important role into the crypto economy: experienced traders
 and new entry traders. In this document we will define the former as *influencers*, while the latter as *subscribers*.
@@ -79,8 +83,28 @@ Influencers have a place where to share their trades and portfolio, and thanks t
 Subscribers have a place to manage their portfolio, 
 
 ## Tokens
+The creation of a token dedicated to TradingLab, despite not being a truly proproty, allows the creation of really interesting scenarios.
+As first, to ensure a truly decentralized apporach, a token could be used to gain bote power for a DAO.
+The token could allow the creation of initiatives, campaigns, and lotteries based on users' behaviour on the platform.
+In the same way, those tokens could be used to gain benefits and special services offered by TradingLab.
+Lastly, a token can also be seen as medium to fidelise influencers and subscribers.
+
 ## Marketing
-## Raising funds
+TradingLab's growth and development are dependant to few keys marketing channel.
+As first, the best marketing is having a great product pleasant to use. This is the reason why development is taking longer than expected.
+A proper blog, as well as a Youtube channel will be used to update regularlly TradingLab's followes.
+But yet the two main marketing channels are Discord, and Influencers.
+
+### Discord
+It is critically important being able to create an healty and active community on Discord.
+The landing page needs to invite to join the community using clear messages, which will be A/B tested properly.
+A part of TradingLab's revenues will be allocated to admin and moderators.
+
+### Influencers
+The main marketing channel is the ability to involve influencers in the growth of TradingLab.
+An influencer has an important audience on the main social media, and the possibility to convert a part of it to TradingLab's users would mean making more profit to them.
+The idea would be to incentize influencers to use and share while interacting with their audience, keeping bulding the win-win apporach above mentioned. 
+
 ## Team
 ## Technology
 ## Competitors
@@ -89,4 +113,6 @@ Subscribers have a place to manage their portfolio,
 ## OpenSource
 ## Risks
 ## Roadmap
-## Vision
+
+
+## Raising funds
