@@ -103,7 +103,6 @@ Lastly, a token can also be seen as medium to fidelise influencers and subscribe
 
 ## Marketing
 The best marketing is having a great product pleasant to use.
-This is the reason why development is taking following the hard path.
 From a pure marketing point of view, A proper blog, as well as a Youtube channel will be used to update regularlly TradingLab's followes.
 But yet the two main marketing channels are Discord, and Influencers.
 
