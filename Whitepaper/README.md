@@ -2,27 +2,29 @@
 **Hyper Hybrid Crypto Trading Community**
 
 ## Introduction
-At the time of writing this document, the total market capitalisation of the crypto industry has reached two trillion dollars.
-In a really conservative scenario this amount will double within years, thanks to capital injection of institutional investors as well as amatorial investors, both attracted by the idea of quick gains as well as the feeling of pioneering a whole new industry.
+At the time of writing this document, the total market capitalisation of crypto industry has reached two trillion dollars.
+In a really conservative scenario this amount will double within years, due to capital injection of institutional investors as well as amatorial investors, both attracted by the idea of quick gains as well as the feeling of pioneering a whole new industry.
 
-Innovation is thriving within the crypto industry. Many ideas and platform are built accordingly with the possibilities allowed by decentralised technologies.
+Innovation is thriving within this industry.
+
+Many ideas and platforms are built accordingly with the possibilities allowed by decentralised technologies.
 
 The rise of web3 paradigm has opened up a new form of interaction between users and platforms, in which there is no need anymore to fulfill a KYC process in order to access certain functionalites, most of them purely financial based, such as sending money.
 
-One of the most interesting possibility is to have micro transactions withing a web application. Subscription model, special features, prices, can be fully regulated by smart contracts in a easy fashion way, without the necessity to rely to third party players, saving in this way an important amount of money due to fees. For example, with Stripe, a fee of 3% plus 30 cents per transaction is payed.
+One of the most interesting possibility is to have micro transactions within a web application. Subscription model, special features, prices, can be fully regulated by smart contracts in a easy fashion way, without the necessity to rely to third party players, saving in this way an important amount of money due to fees. For example, with Stripe, a fee of 3% plus 30 cents per transaction is payed.
 
 ## Vision
 TradingLab aims to create a funny, addictive, never ending user experience in which crypto passionates can converge, learning and earning from each others simply sharing their crypto portfolios.
 
 ## Problem
-There are plenty portfolio trackers available online. The main distinction between them is between being automatically or manually updated.
-They allow anybody to keep track of the behavior of cryto holdings.
-Most of them are too complex to use, generating confusion and uncertanties. 
-Others, are more user friendly, but black boxed, which means not open source, or not sharable across users.
-Finally there are fully automated ones, able to import data directly from centralized/decentralized platforms, but in this case there is always a limit in terms of privacy and security.
+There are plenty of portfolio trackers available online. The main distinction between them is between being automatically or manually updated.
+They allow anybody to keep track of the behavior of crypto holdings.
+Most of them are too complex to use, generating confusion and uncertanties among non crypto-savvy users.
+Others are more user friendly, but black boxed, which means not open source or not allowing a social-network apporach across users.
+Finally there are fully automated ones, able to import data directly from centralized/decentralized platforms, but in this case there is always a limit in terms of privacy, security and flexibility.
 
 ## Market
-TradingLab has identified two key stakeholders playing an critical role into the crypto economy: experienced traders
+TradingLab has identified two key stakeholders playing a critical role into the crypto economy: experienced traders
 and new entry traders. In this document we will define the former as *influencers*, while the latter as *subscribers*.
 
 ### Influencers
