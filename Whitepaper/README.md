@@ -2,6 +2,36 @@
 
 **Hyper Hybrid Crypto Trading Community**
 
+[](mdtoc)
+# Table of Contents
+* [Introduction](#introduction)
+* [Vision](#vision)
+* [Problem](#problem)
+* [Market](#market)
+	* [Experienced](#experienced)
+	* [Influencers](#influencers)
+	* [Newcomers](#newcomers)
+* [Product](#product)
+	* [1 - Portfolio](#1---portfolio)
+	* [2 - Social](#2---social)
+	* [3 - Subscription](#3---subscription)
+	* [4 - Real-time](#4---real-time)
+	* [5 - Decentralisation](#5---decentralisation)
+	* [6 - Blockchain](#6---blockchain)
+	* [7 - Smart contracts](#7---smart-contracts)
+	* [8 - Off-chain data](#8---off-chain-data)
+	* [9 - Token](#9---token)
+* [Marketing](#marketing)
+* [Community](#community)
+* [Team](#team)
+* [Technology](#technology)
+* [OpenSource](#opensource)
+* [Design](#design)
+* [Socials](#socials)
+* [Competitors](#competitors)
+* [Roadmap](#roadmap)
+[](/mdtoc)
+
 ## Introduction
 At the time of writing this document, the total market capitalisation of crypto industry has reached two trillion dollars.
 
@@ -143,7 +173,7 @@ Once the product is considered pleasent to use, the idea is to onboard experienc
 
 From a pure marketing point of view, a blog, as well as a Youtube channel will be used to update regularlly TradingLab's followes.
 
-### Community
+## Community
 It is critically important being able to create an healty and active community. From this point of view, nothing is better of Discord, a place in which any crypto project needs to be present.
 
 Discord will be used as main medium of announcment, replacing the old idea of email newsletter. Moreover, in Discord bugs and suggestion will be reported.
