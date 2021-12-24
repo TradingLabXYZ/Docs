@@ -1,6 +1,6 @@
 # TradingLab
 
-**Hyper Hybrid Crypto Trading Community**
+**Hyper Hybrid Crypto Portfolio**
 
 [](mdtoc)
 # Table of Contents
