@@ -235,6 +235,7 @@ Many products out there are offering multiple services, including as side one a 
 - [Cryptocompare](https://www.cryptocompare.com)
 - [Coinmarketcap](https://coinmarketcap.com/)
 - [Zapper](https://zapper.fi/)
+- [Cointracker](https://www.cointracker.io/)
 
 TODO expand list and analyse each competitor
 
