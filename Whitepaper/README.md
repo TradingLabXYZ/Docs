@@ -46,7 +46,7 @@ The rise of web3 paradigm has opened up a new form of interaction between users 
 One of the most interesting possibility is to have micro transactions within a web application, such as ubscription model, special features, prices. All these functionalities can be fully regulated by smart contracts in a easy fashion way, without the necessity to rely to third party players, saving in this way an important amount of money due to fees. 
 
 ## Vision
-TradingLab aims to create a funny, addictive, never ending user experience in which crypto passionates can converge, learning and earning from each others simply sharing their crypto portfolios.
+TradingLab aims to create a funny, entertaining, never ending user experience in which crypto passionates can converge, learning and earning from each others simply sharing their crypto portfolios.
 
 ## Problem
 There are plenty of portfolio trackers available online. They allow everybody to keep track of the behavior of crypto holdings. 
