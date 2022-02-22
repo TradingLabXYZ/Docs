@@ -134,7 +134,8 @@ streamers updating the trades in real time while people are watching the profile
 
 This same structure can be extended in the future to other areas of TradingLab currently under evaluation.
 
-### 5 - Decentralisation As crypto platform, TradingLab aims in the future to become a fully decentralised dapp. This
+### 5 - Decentralisation
+As crypto platform, TradingLab aims in the future to become a fully decentralised dapp. This
 goal can be achieved only through an iterative process, which started from the user authentication.
 
 Users are able to enter the platform using their Web3 wallets, this means TradingLab does not store any personal data.
