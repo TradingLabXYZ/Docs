@@ -266,6 +266,7 @@ Many products out there are offering multiple services, including as side one a 
 - [Coinmarketcap](https://coinmarketcap.com/)
 - [Zapper](https://zapper.fi/)
 - [Cointracker](https://www.cointracker.io/)
+- [Coinstats](https://coinstats.app/)
 
 ## Roadmap
 * Q3 2021: basic TradingLab version
