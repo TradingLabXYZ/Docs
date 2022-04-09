@@ -6,22 +6,29 @@ Guess how much will be worth a Bitcoin in a month from now.
 
 ## Rules
 
-- One week submbission window
-- Submit price prediction before certain date
-- Submission can be modified or cancelled before deadline
-- Only one submission per wallet
-- All submissions after a date will not be accepted
-- Sumbission has to indicate price with two decimal precision
-- If multiple users guess with the same price, prize will be divided
-- Data are fetched from Coinmarketcap
+- Connect using a Polygon Matic wallet
+- Wallets not related to Polygon Matic will not receive any prize
+- One wallet can sumbit one prediction
+- The submission window ends on the 30 April 2022 at midnight
+- Be precise with your submission (example 53’764.78$)
+- If multiple users win with the same price, the prize will be divided
+- BTC price is retrieved using Coinmarketcap APIs
+- Prizes will be distributed within a week after the end of the competition
 
 ## Prizes
 
 - First position 10 MM + 100 LAB
 - Second position 5 MM + 50 LAB
 - Third position 3 MM + 30 LAB
-- Each partecipant 10 LAB
-- If you complete a profile (pictue, info and so on) + 5 LAB
+
+Get 1 LAB for each  point below:
+- Follow us on Twitter
+- Follow us on Youtube
+- Follow us on Metafora
+- Follow us on Github
+- Add username
+- Add profile picture
+- Add one social network
 
 ## TODOs
 
@@ -30,13 +37,22 @@ Guess how much will be worth a Bitcoin in a month from now.
 - Landing page live results (websocket)
   - Name/Wallet, Price, Delta %
   - Show btc price
-- Special button trade section
-- Trade cannot be modified
-- Create LAB token
+- Landing page show number of partecipants
+- Alert PLEASE CONNECT YOUR WALLET
+- Fetch preiction when user is connected
+- Prediction can not be modifed from Trade Section but only deleted
+- How to adapt database to accept predictions?
+  - Trade table needs to be upgraded with a flag (if TRUE disable edititing)
+  - A proper table to store all the submissions
+  - A proper table to monitor marketing effort (or using matomo instead?)
+- Create logo of competition, it will be useful also on the Trade section
+
 
 ## ADVERTISING
 
 - Ask support from MM influencers (giving away LAB tokens)
+- Propose partership based on performances
+- Prepare tracking url to monitor performances
 - Daily post on Metafora
 - Daily post on Discord
 - Daily post on Twitter
@@ -45,9 +61,10 @@ Guess how much will be worth a Bitcoin in a month from now.
 
 ## MEASURES
 
-- Which KPIs can be relevant to be measured?
+- Relevant KPIs:
   - Number of partecipants
-  - Youtube visits
-  - Twitter engagement (giving away LAB tokens)
   - Landing page visits
+  - New twitter subscribers
+  - New youtube subscribers
 - How to define success of competition?
+  - 50 submissions can be a great result
