@@ -21,7 +21,9 @@ Guess how much will be worth a Bitcoin in a month from now.
 - Second position 5 MM + 50 LAB
 - Third position 3 MM + 30 LAB
 
-Get 1 LAB for each  point below:
+Add a trade on TradingLab + 10 points
+
+Get 1 LAB for each point below:
 - Follow us on Twitter
 - Follow us on Youtube
 - Follow us on Metafora
