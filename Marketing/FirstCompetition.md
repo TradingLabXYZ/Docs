@@ -49,6 +49,9 @@ Get 1 LAB for each point below:
 - Create logo of competition, it will be useful also on the Trade section
 - Create more coinmarketcap API tokens to fetch data more frequentely
 
+- https://github.com/TradingLabXYZ/WebFront/issues/230
+- https://github.com/TradingLabXYZ/WebBack/issues/135 
+
 ## ADVERTISING
 
 - Ask support from MM influencers (giving away LAB tokens)
