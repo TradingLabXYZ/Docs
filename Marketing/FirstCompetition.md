@@ -30,8 +30,9 @@ Get 1 LAB for each  point below:
 - Add profile picture
 - Add one social network
 
-## TODOs
+## TECH TODOs
 
+- For sake of simplicity, submissions and trades are not related
 - Add competition section to main landing page
 - Landing page competition
 - Landing page live results (websocket)
@@ -39,14 +40,12 @@ Get 1 LAB for each  point below:
   - Show btc price
 - Landing page show number of partecipants
 - Alert PLEASE CONNECT YOUR WALLET
-- Fetch preiction when user is connected
-- Prediction can not be modifed from Trade Section but only deleted
+- Fetch submission when user is connected
 - How to adapt database to accept predictions?
-  - Trade table needs to be upgraded with a flag (if TRUE disable edititing)
   - A proper table to store all the submissions
   - A proper table to monitor marketing effort (or using matomo instead?)
 - Create logo of competition, it will be useful also on the Trade section
-
+- Create more coinmarketcap API tokens to fetch data more frequentely
 
 ## ADVERTISING
 
@@ -66,5 +65,6 @@ Get 1 LAB for each  point below:
   - Landing page visits
   - New twitter subscribers
   - New youtube subscribers
+  - How many partecipants also create a trade?
 - How to define success of competition?
   - 50 submissions can be a great result
