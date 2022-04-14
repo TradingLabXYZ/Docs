@@ -68,8 +68,11 @@ Get 1 LAB for each point below:
 - Relevant KPIs:
   - Number of partecipants
   - Landing page visits
+  - Conversion rate (page visits VS partecipants)
   - New twitter subscribers
   - New youtube subscribers
   - How many partecipants also create a trade?
-- How to define success of competition?
+  - How to measure influencer tickets?
+  - How to define success of competition?
   - 50 submissions can be a great result
+  - A/B test?
