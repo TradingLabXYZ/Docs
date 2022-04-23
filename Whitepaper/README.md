@@ -52,7 +52,7 @@ of a central authority to grant certain rules, for example the idea of KYC is no
 One extremely interesting possibility is the idea to allow micro financial transactions within a web application. All these transactions can be fully regulated by smart contracts in a easy fashion way, without the necessity to rely to third party players, saving in this way an important amount of money due to fees. 
 
 ## Vision
-TradingLab aims to create a funny, entertaining, never ending user experience in which crypto passionate can converge, learning and earning from each others simply sharing their crypto portfolios.
+TradingLab aims to create a fun, entertaining, never ending user experience in which crypto passionate can converge, learning and earning from each others simply sharing their crypto portfolios.
 
 ## Problem
 There are plenty of portfolio trackers available online. They allow everybody to keep track of the behavior of their crypto investments. 
